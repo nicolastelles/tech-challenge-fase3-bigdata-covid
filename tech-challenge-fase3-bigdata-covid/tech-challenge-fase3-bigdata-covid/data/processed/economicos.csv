@@ -1,4 +1,0 @@
-ANO,MES,min_carga_horaria,max_carga_horaria,media_carga_horaria,faixa_1_40,faixa_40_80,faixa_80_120,min_rendimentos,max_rendimentos,avg_rendimentos,qtd_respondentes_rendimentos,Contribuiu_inss,Nao_Contribuiu_inss,Contribuiu_inss_percentual,Nao_Contribuiu_inss_percentual,Procurou_Trabalho,Nao_Procurou_Trabalho,Procurou_Trabalho_percentual,Nao_Procurou_Trabalho_percentual,Recebeu_Auxilio,Nao_Recebeu_Auxilio,Recebeu_Auxilio_percentual,Nao_Recebeu_Auxilio_percentual
-2020,5,1,120,39.308588822062575,84903,50808,629,2.0,200000.0,2193.207592067989,132375,39293,184741,11.25,52.89,15043,136434,4.31,39.06,160870,188436,46.05,53.95
-2020,7,1,120,39.810701807207806,87229,55016,572,2.0,200000.0,2242.4263705799931,138518,39748,208117,10.35,54.17,19418,154236,5.05,40.15,199493,184673,51.93,48.07
-2020,6,1,120,39.477014050961287,90342,55143,626,2.0,200000.0,2209.3488992567586,141677,40009,205520,10.49,53.9,18737,149253,4.91,39.15,193684,187586,50.8,49.2
