@@ -19,7 +19,7 @@ Foram escolhidas 20 perguntas, divididas em três categorias principais:
 
 ### **1️⃣ Caracterização dos sintomas clínicos da população**
 - **B1** – Sintomas apresentados na semana anterior.
-- **B2** – Busca por atendimento médico.
+- **B2** – Busca por atendimento médico. (Por causa disso, foi a algum estabelecimento de saude?)
 - **B3** – Medidas tomadas para recuperação.
 - **B4** – Locais de atendimento procurados.
 - **B5** – Necessidade de internação.
@@ -36,11 +36,9 @@ Foram escolhidas 20 perguntas, divididas em três categorias principais:
 ### **3️⃣ Características econômicas da sociedade**
 - **C7** – Tipo de ocupação (empregado, autônomo, empresário etc.).
 - **C8** – Carga horária semanal.
-- **C10** – Rendimento normal do trabalho.
-- **C11a** – Rendimento do mês passado.
+- **C01012** – Rendimento normal do trabalho.
 - **C14** – Contribuição para o INSS.
 - **C15** – Procurou trabalho na semana passada?
-- **C16** – Motivo para não procurar trabalho.
 - **D1e** – Recebeu auxílio emergencial?
 
 ## 📌 Próximos Passos
